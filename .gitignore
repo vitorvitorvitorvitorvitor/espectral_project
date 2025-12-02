@@ -1,0 +1,48 @@
+# GameMaker Project Files
+
+*.yyp          # Arquivo principal do projeto
+*.yy           # Arquivos de objetos, sprites, scripts, etc.
+*.yymp         # Pastas de multi-player temporárias
+*.yyproj       # Projetos antigos do GM
+*.yys          # Templates e snippets
+*.yyz          # Arquivos compactados de backup
+*.gm81         # Projetos antigos do GM 8.1
+
+# Pastas temporárias
+
+temp/
+cache/
+*.tmp
+*.backup
+*.log
+*.swp
+
+# Build e executáveis
+
+*.exe
+*.apk
+*.aab
+*.ios
+*.app
+*.dll
+*.dylib
+*.so
+
+# Outros arquivos do sistema
+
+.DS_Store
+Thumbs.db
+*.userprefs
+*.vscode
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.lock
+*.db
+
+# Pastas de compilação
+
+Build/
+bin/
+dist/
+output/
